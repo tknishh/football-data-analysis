@@ -5,3 +5,4 @@ Football data analysis using SQL
 
 [Kaggle link](https://www.kaggle.com/datasets/hugomathien/soccer)
 
+[Download](https://www.kaggle.com/datasets/hugomathien/soccer/download?datasetVersionNumber=10)
